@@ -1,0 +1,48 @@
+F:\Caro\Caro\bin\Debug\Caro.exe.config
+F:\Caro\Caro\bin\Debug\Caro.exe
+F:\Caro\Caro\bin\Debug\Caro.pdb
+F:\Caro\Caro\obj\Debug\Caro.csprojResolveAssemblyReference.cache
+F:\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+F:\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+F:\Caro\Caro\obj\Debug\Caro.exe
+F:\Caro\Caro\obj\Debug\Caro.pdb
+F:\Caro\Caro\obj\Debug\Caro.Form_Caro.resources
+F:\C#\Caro\Caro\bin\Debug\Caro.exe.config
+F:\C#\Caro\Caro\obj\Debug\Caro.exe
+F:\C#\Caro\Caro\obj\Debug\Caro.pdb
+F:\C#\Caro\Caro\bin\Debug\Caro.exe
+F:\C#\Caro\Caro\bin\Debug\Caro.pdb
+F:\C#\Caro\Caro\obj\Debug\Caro.csprojResolveAssemblyReference.cache
+F:\C#\Caro\Caro\obj\Debug\Caro.Form_Caro.resources
+F:\C#\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+F:\C#\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+C:\Users\Phat\OneDrive\Desktop\New folder\Caro\bin\Debug\Caro.exe.config
+C:\Users\Phat\OneDrive\Desktop\New folder\Caro\bin\Debug\Caro.exe
+C:\Users\Phat\OneDrive\Desktop\New folder\Caro\bin\Debug\Caro.pdb
+C:\Users\Phat\OneDrive\Desktop\New folder\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+C:\Users\Phat\OneDrive\Desktop\New folder\Caro\obj\Debug\Caro.Form_Caro.resources
+C:\Users\Phat\OneDrive\Desktop\New folder\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\Phat\OneDrive\Desktop\New folder\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\Phat\OneDrive\Desktop\New folder\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\Phat\OneDrive\Desktop\New folder\Caro\obj\Debug\Caro.exe
+C:\Users\Phat\OneDrive\Desktop\New folder\Caro\obj\Debug\Caro.pdb
+C:\Users\Phat\OneDrive\Desktop\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\Phat\OneDrive\Desktop\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\Phat\OneDrive\Desktop\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\Phat\OneDrive\Desktop\Caro\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+C:\Users\Phat\OneDrive\Desktop\Caro\Caro\obj\Debug\Caro.Form_Caro.resources
+C:\Users\Phat\OneDrive\Desktop\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\Phat\OneDrive\Desktop\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\Phat\OneDrive\Desktop\Caro\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\Phat\OneDrive\Desktop\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\Phat\OneDrive\Desktop\Caro\Caro\obj\Debug\Caro.pdb
+C:\Users\HTP\Downloads\New folder\Ca_Ro-master\Caro\bin\Debug\Caro.exe.config
+C:\Users\HTP\Downloads\New folder\Ca_Ro-master\Caro\bin\Debug\Caro.exe
+C:\Users\HTP\Downloads\New folder\Ca_Ro-master\Caro\bin\Debug\Caro.pdb
+C:\Users\HTP\Downloads\New folder\Ca_Ro-master\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+C:\Users\HTP\Downloads\New folder\Ca_Ro-master\Caro\obj\Debug\Caro.Form_Caro.resources
+C:\Users\HTP\Downloads\New folder\Ca_Ro-master\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\HTP\Downloads\New folder\Ca_Ro-master\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\HTP\Downloads\New folder\Ca_Ro-master\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\HTP\Downloads\New folder\Ca_Ro-master\Caro\obj\Debug\Caro.exe
+C:\Users\HTP\Downloads\New folder\Ca_Ro-master\Caro\obj\Debug\Caro.pdb
